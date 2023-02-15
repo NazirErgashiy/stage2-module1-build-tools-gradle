@@ -1,6 +1,5 @@
 package com.epam.utils;
 
-import java.*;
 
 public class StringUtils {
     public static boolean isPositiveNumber(String str) {
